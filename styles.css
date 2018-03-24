@@ -1,0 +1,13 @@
+#wrapper {
+  background-color: lightgray;
+  margin: auto;
+  width: 500px;
+  height: auto;
+  text-align: center;
+}
+
+#text-output {
+  margin: auto;
+  height: auto;
+  border: black solid 1px;
+}
